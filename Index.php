@@ -35,7 +35,7 @@ Ao final deve se exibir uma mensagem:
 } else if ($xp <= 9000) {
     echo "Com seus $xp Pontos de Experiencias você está classificado como um Heroi de Nivel Ascendente";
 }else if ($xp >=10000){
-     echo "Com seus 1xp Pontos de Experiencias você está classificado como um Heroi de Nivel Imortal";
+     echo "Com seus $xp Pontos de Experiencias você está classificado como um Heroi de Nivel Imortal";
 }
 
   ?>
